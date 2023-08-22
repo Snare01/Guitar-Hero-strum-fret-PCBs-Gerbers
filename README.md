@@ -4,7 +4,7 @@
 THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH?
 Frets are 
 
-Just a hobbyist who though they could do this for cheaper, not many openly available PCB's so i thought id put this out there.
+Just a hobbyist who thought they could do this for cheaper, not many openly available PCB's so i thought id put this out there.
 download Kicad to verify measurements and or ask me for them 
 
 Premade gerber files to order guitar hero Fret and strum pcb
