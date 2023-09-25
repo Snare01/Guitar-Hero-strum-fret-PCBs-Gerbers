@@ -1,7 +1,7 @@
 # Guitar Hero strum/fret PCBs
  Gerber files to order for guitar hero pico mechanical mods
 
-THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH?
+THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH/GH5
 Frets are tested on LP only
 
 Just a hobbyist who thought they could do this for cheaper, not many openly available PCB's so i thought id put this out there.
@@ -10,7 +10,7 @@ download Kicad to verify measurements and or ask me for them
 Premade gerber files to order guitar hero Fret and strum pcb
 
 Use Kailh Choc V1's for frets and Kailh Box for the strum
-
+All pad spacing (except tilt) is 2.54mm center to center if you want to use JST connectors for quick disconnects
 Pico clones work
 
 snare01 on discord or contact me via steam comments or friend PM
