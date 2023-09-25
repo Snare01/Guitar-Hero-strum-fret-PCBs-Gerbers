@@ -2,7 +2,7 @@
  Gerber files to order for guitar hero pico mechanical mods
 
 THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH?
-Frets are 
+Frets are tested on LP only
 
 Just a hobbyist who thought they could do this for cheaper, not many openly available PCB's so i thought id put this out there.
 download Kicad to verify measurements and or ask me for them 
