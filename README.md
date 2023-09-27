@@ -1,7 +1,8 @@
 # Guitar Hero strum/fret PCBs
  Gerber files to order for guitar hero pico mechanical mods
 
-THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH/GH5
+THE STRUM PCB HAS BEEN TESTED ON WII LP, GH5, WT, BH, XP, Untested on KRAMER AND SG but should be fine 
+USE STRUM V2, V1 has spacing issues towards the Start select pads
 Frets are tested on LP only
 
 Just a hobbyist who thought they could do this for cheaper, not many openly available PCB's so i thought id put this out there.
