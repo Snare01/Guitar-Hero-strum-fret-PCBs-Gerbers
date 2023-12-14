@@ -1,8 +1,14 @@
 # Guitar Hero strum/fret PCBs
  Gerber files to order for guitar hero pico mechanical mods
 
-THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH/GH5
+THE STRUM PCB SUPPORTS LP/KRAMER/SG/XP/WT/BH/GH5 V2 TESTED ON LP, GH5, GHWT, XP.
 Frets are tested on LP only
+LED FRETS ARE THERE FOR USE WITH GP3,GP6,VBUS and GND ON THE PI PICO (follow Sanjay900's guide following APA102 style LED's 
+THE LEDS ARE SK9822-EC20 and has not been tested. Again DOUBLE CHECK MEASUREMENTS via KiCad before using this
+for the LED frets you need to use the PnP and BOM file in your supplier, (mine JLCPCB) and that will solder them for you since they are difficult otherwise 
+
+THE EXP VERSION OF THE PCB HAS DIFFERENT HOLE TOLERANCES, PLACEMENT, LED SUPPORT AND A ROUNDED PCB, ALTHOUGH PRETTIER TO LOOK AT THERE MIGHT BE ISSUES WITH TOLERANCES BEING TOO TIGHT. 
+IF YOU ARE FINE WITH TAKING A RISK FOR A PCB WITH MORE FEATURES THEN ITS HERE FOR EVERYONE BUT I HAVE NOT PERSONALLY TESTED IT. DOUBLE CHECK ALL MEASUREMENTS via KiCad. 
 
 Just a hobbyist who thought they could do this for cheaper, not many openly available PCB's so i thought id put this out there.
 download Kicad to verify measurements and or ask me for them 
